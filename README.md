@@ -24,3 +24,9 @@ the setup traffic lights.
 
 Read and edit `config/app.php` and setup the 'Datasources' and any other
 configuration relevant for your application.
+
+###running server
+0. use the ttar.sql dump file for schema 
+1. cd into webroot
+2. ../bin/cake server [optionally specify host, port]
+3. it won't run if some php extensions are missing e.g. intl, mbstring, so install them
