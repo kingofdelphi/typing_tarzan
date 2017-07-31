@@ -1,0 +1,468 @@
+[Fri May 13 19:42:04.965009 2016] [lbmethod_heartbeat:notice] [pid 478] AH02282: No slotmem from mod_heartmonitor
+[Fri May 13 19:42:04.974798 2016] [mpm_prefork:notice] [pid 478] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Fri May 13 19:42:04.974832 2016] [core:notice] [pid 478] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 13 19:43:27.357259 2016] [mpm_prefork:notice] [pid 478] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri May 13 19:43:27.494590 2016] [lbmethod_heartbeat:notice] [pid 700] AH02282: No slotmem from mod_heartmonitor
+[Fri May 13 19:43:27.503657 2016] [mpm_prefork:notice] [pid 700] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Fri May 13 19:43:27.503688 2016] [core:notice] [pid 700] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 13 19:45:35.052113 2016] [mpm_prefork:notice] [pid 700] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri May 13 19:45:35.187828 2016] [lbmethod_heartbeat:notice] [pid 807] AH02282: No slotmem from mod_heartmonitor
+[Fri May 13 19:45:35.197872 2016] [mpm_prefork:notice] [pid 807] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Fri May 13 19:45:35.197902 2016] [core:notice] [pid 807] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 13 19:46:18.093241 2016] [mpm_prefork:notice] [pid 807] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri May 13 19:46:18.231453 2016] [lbmethod_heartbeat:notice] [pid 926] AH02282: No slotmem from mod_heartmonitor
+[Fri May 13 19:46:18.240130 2016] [mpm_prefork:notice] [pid 926] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Fri May 13 19:46:18.240165 2016] [core:notice] [pid 926] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 13 21:02:34.070024 2016] [mpm_prefork:notice] [pid 926] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri May 13 21:03:44.835349 2016] [lbmethod_heartbeat:notice] [pid 496] AH02282: No slotmem from mod_heartmonitor
+[Fri May 13 21:03:50.132030 2016] [mpm_prefork:notice] [pid 496] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Fri May 13 21:03:50.132108 2016] [core:notice] [pid 496] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 13 21:15:05.769911 2016] [lbmethod_heartbeat:notice] [pid 486] AH02282: No slotmem from mod_heartmonitor
+[Fri May 13 21:15:07.524702 2016] [mpm_prefork:notice] [pid 486] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Fri May 13 21:15:07.524745 2016] [core:notice] [pid 486] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 13 21:18:00.402207 2016] [mpm_prefork:notice] [pid 486] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri May 13 21:18:30.586353 2016] [lbmethod_heartbeat:notice] [pid 481] AH02282: No slotmem from mod_heartmonitor
+[Fri May 13 21:18:32.023285 2016] [mpm_prefork:notice] [pid 481] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Fri May 13 21:18:32.023363 2016] [core:notice] [pid 481] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 13 21:19:58.528307 2016] [lbmethod_heartbeat:notice] [pid 484] AH02282: No slotmem from mod_heartmonitor
+[Fri May 13 21:20:00.162289 2016] [mpm_prefork:notice] [pid 484] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Fri May 13 21:20:00.162400 2016] [core:notice] [pid 484] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 13 21:27:13.557888 2016] [mpm_prefork:notice] [pid 484] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri May 13 21:28:47.164493 2016] [lbmethod_heartbeat:notice] [pid 476] AH02282: No slotmem from mod_heartmonitor
+[Fri May 13 21:28:49.133588 2016] [mpm_prefork:notice] [pid 476] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Fri May 13 21:28:49.133671 2016] [core:notice] [pid 476] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat May 14 17:07:40.947344 2016] [mpm_prefork:notice] [pid 476] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat May 14 17:08:21.177075 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sat May 14 17:08:24.252041 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sat May 14 17:08:24.252117 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat May 14 17:12:07.869136 2016] [mpm_prefork:notice] [pid 499] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat May 14 17:12:39.125210 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sat May 14 17:12:40.595097 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sat May 14 17:12:40.595172 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 15 08:16:31.990990 2016] [mpm_prefork:notice] [pid 499] AH00171: Graceful restart requested, doing restart
+[Sun May 15 08:16:32.009158 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sun May 15 08:16:32.015339 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 15 08:16:32.015353 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 15 08:16:32.074497 2016] [mpm_prefork:notice] [pid 499] AH00171: Graceful restart requested, doing restart
+[Sun May 15 08:16:32.089546 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sun May 15 08:16:32.094431 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 15 08:16:32.094444 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 15 08:16:32.156159 2016] [mpm_prefork:notice] [pid 499] AH00171: Graceful restart requested, doing restart
+[Sun May 15 08:16:32.170350 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sun May 15 08:16:32.175575 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 15 08:16:32.175588 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 15 08:16:32.219959 2016] [mpm_prefork:notice] [pid 499] AH00171: Graceful restart requested, doing restart
+[Sun May 15 08:16:32.233693 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sun May 15 08:16:32.238589 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 15 08:16:32.238601 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 15 08:16:32.297949 2016] [mpm_prefork:notice] [pid 499] AH00171: Graceful restart requested, doing restart
+[Sun May 15 08:16:32.316100 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sun May 15 08:16:32.322585 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 15 08:16:32.322601 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 15 08:16:32.388242 2016] [mpm_prefork:notice] [pid 499] AH00171: Graceful restart requested, doing restart
+[Sun May 15 08:16:32.405001 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sun May 15 08:16:32.410071 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 15 08:16:32.410084 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 15 16:48:38.097295 2016] [lbmethod_heartbeat:notice] [pid 503] AH02282: No slotmem from mod_heartmonitor
+[Sun May 15 16:48:42.018186 2016] [mpm_prefork:notice] [pid 503] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 15 16:48:42.018297 2016] [core:notice] [pid 503] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 15 21:24:26.303488 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Sun May 15 21:24:28.746068 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 15 21:24:28.746146 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 15 22:51:08.871242 2016] [lbmethod_heartbeat:notice] [pid 481] AH02282: No slotmem from mod_heartmonitor
+[Sun May 15 22:51:10.517103 2016] [mpm_prefork:notice] [pid 481] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 15 22:51:10.517179 2016] [core:notice] [pid 481] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+sh: /usr/bin/sendmail: No such file or directory
+[Mon May 16 15:45:17.359217 2016] [mpm_prefork:notice] [pid 481] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon May 16 15:46:06.888877 2016] [lbmethod_heartbeat:notice] [pid 493] AH02282: No slotmem from mod_heartmonitor
+[Mon May 16 15:46:08.254250 2016] [mpm_prefork:notice] [pid 493] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Mon May 16 15:46:08.254291 2016] [core:notice] [pid 493] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 17 00:27:13.169180 2016] [mpm_prefork:notice] [pid 493] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue May 17 07:43:19.397233 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Tue May 17 07:43:24.202741 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Tue May 17 07:43:24.202829 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 17 10:59:35.337868 2016] [mpm_prefork:notice] [pid 504] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue May 17 11:27:51.305017 2016] [lbmethod_heartbeat:notice] [pid 515] AH02282: No slotmem from mod_heartmonitor
+[Tue May 17 11:27:52.713975 2016] [mpm_prefork:notice] [pid 515] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Tue May 17 11:27:52.714059 2016] [core:notice] [pid 515] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 17 11:30:02.795003 2016] [mpm_prefork:notice] [pid 515] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue May 17 15:24:17.914731 2016] [lbmethod_heartbeat:notice] [pid 491] AH02282: No slotmem from mod_heartmonitor
+[Tue May 17 15:24:19.491666 2016] [mpm_prefork:notice] [pid 491] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Tue May 17 15:24:19.491708 2016] [core:notice] [pid 491] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 17 18:15:37.140081 2016] [mpm_prefork:notice] [pid 491] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue May 17 18:33:41.004690 2016] [lbmethod_heartbeat:notice] [pid 502] AH02282: No slotmem from mod_heartmonitor
+[Tue May 17 18:33:45.311900 2016] [mpm_prefork:notice] [pid 502] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Tue May 17 18:33:45.311986 2016] [core:notice] [pid 502] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed May 18 23:39:51.583647 2016] [mpm_prefork:notice] [pid 502] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu May 19 07:30:28.572133 2016] [lbmethod_heartbeat:notice] [pid 519] AH02282: No slotmem from mod_heartmonitor
+[Thu May 19 07:30:34.224107 2016] [mpm_prefork:notice] [pid 519] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Thu May 19 07:30:34.224185 2016] [core:notice] [pid 519] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu May 19 14:45:28.636591 2016] [mpm_prefork:notice] [pid 519] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu May 19 15:17:22.353472 2016] [lbmethod_heartbeat:notice] [pid 493] AH02282: No slotmem from mod_heartmonitor
+[Thu May 19 15:17:26.426116 2016] [mpm_prefork:notice] [pid 493] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Thu May 19 15:17:26.426188 2016] [core:notice] [pid 493] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat May 21 08:27:55.255123 2016] [mpm_prefork:notice] [pid 493] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat May 21 08:28:52.020276 2016] [lbmethod_heartbeat:notice] [pid 505] AH02282: No slotmem from mod_heartmonitor
+[Sat May 21 08:28:55.383558 2016] [mpm_prefork:notice] [pid 505] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sat May 21 08:28:55.383641 2016] [core:notice] [pid 505] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat May 21 23:48:08.332440 2016] [mpm_prefork:notice] [pid 505] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun May 22 06:19:10.532791 2016] [lbmethod_heartbeat:notice] [pid 510] AH02282: No slotmem from mod_heartmonitor
+[Sun May 22 06:19:17.269395 2016] [mpm_prefork:notice] [pid 510] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 22 06:19:17.269484 2016] [core:notice] [pid 510] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 22 08:10:09.057520 2016] [lbmethod_heartbeat:notice] [pid 492] AH02282: No slotmem from mod_heartmonitor
+[Sun May 22 08:10:10.590944 2016] [mpm_prefork:notice] [pid 492] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 22 08:10:10.591022 2016] [core:notice] [pid 492] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 22 08:20:26.793858 2016] [lbmethod_heartbeat:notice] [pid 493] AH02282: No slotmem from mod_heartmonitor
+[Sun May 22 08:20:28.050447 2016] [mpm_prefork:notice] [pid 493] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 22 08:20:28.050541 2016] [core:notice] [pid 493] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 22 16:03:57.064230 2016] [lbmethod_heartbeat:notice] [pid 508] AH02282: No slotmem from mod_heartmonitor
+[Sun May 22 16:03:58.760472 2016] [mpm_prefork:notice] [pid 508] AH00163: Apache/2.4.18 (Unix) PHP/7.0.3 configured -- resuming normal operations
+[Sun May 22 16:03:58.760551 2016] [core:notice] [pid 508] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 22 20:10:43.097286 2016] [lbmethod_heartbeat:notice] [pid 496] AH02282: No slotmem from mod_heartmonitor
+[Sun May 22 20:10:48.166868 2016] [mpm_prefork:notice] [pid 496] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun May 22 20:10:48.166954 2016] [core:notice] [pid 496] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 22 22:57:58.110539 2016] [mpm_prefork:notice] [pid 496] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon May 23 07:47:30.982366 2016] [lbmethod_heartbeat:notice] [pid 501] AH02282: No slotmem from mod_heartmonitor
+[Mon May 23 07:47:33.335085 2016] [mpm_prefork:notice] [pid 501] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon May 23 07:47:33.335129 2016] [core:notice] [pid 501] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon May 23 11:02:39.917015 2016] [mpm_prefork:notice] [pid 501] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon May 23 11:32:09.067422 2016] [lbmethod_heartbeat:notice] [pid 493] AH02282: No slotmem from mod_heartmonitor
+[Mon May 23 11:32:13.405315 2016] [mpm_prefork:notice] [pid 493] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon May 23 11:32:13.405382 2016] [core:notice] [pid 493] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon May 23 12:34:58.848072 2016] [mpm_prefork:notice] [pid 493] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon May 23 12:38:05.972901 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Mon May 23 12:38:07.944786 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon May 23 12:38:07.944860 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon May 23 17:02:25.827658 2016] [mpm_prefork:notice] [pid 504] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon May 23 17:42:52.501487 2016] [lbmethod_heartbeat:notice] [pid 491] AH02282: No slotmem from mod_heartmonitor
+[Mon May 23 17:42:57.227884 2016] [mpm_prefork:notice] [pid 491] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon May 23 17:42:57.273633 2016] [core:notice] [pid 491] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 24 00:02:09.218218 2016] [mpm_prefork:notice] [pid 491] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue May 24 07:16:51.236400 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Tue May 24 07:16:54.667435 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue May 24 07:16:54.667514 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 24 09:52:55.542890 2016] [mpm_prefork:notice] [pid 504] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue May 24 18:27:57.360979 2016] [lbmethod_heartbeat:notice] [pid 487] AH02282: No slotmem from mod_heartmonitor
+[Tue May 24 18:27:58.979523 2016] [mpm_prefork:notice] [pid 487] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue May 24 18:27:58.979610 2016] [core:notice] [pid 487] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 24 20:21:23.398666 2016] [lbmethod_heartbeat:notice] [pid 497] AH02282: No slotmem from mod_heartmonitor
+[Tue May 24 20:21:25.355545 2016] [mpm_prefork:notice] [pid 497] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue May 24 20:21:25.528817 2016] [core:notice] [pid 497] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 24 21:58:39.994310 2016] [lbmethod_heartbeat:notice] [pid 496] AH02282: No slotmem from mod_heartmonitor
+[Tue May 24 21:58:41.871870 2016] [mpm_prefork:notice] [pid 496] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue May 24 21:58:41.871947 2016] [core:notice] [pid 496] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 24 23:51:24.058069 2016] [mpm_prefork:notice] [pid 496] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed May 25 07:15:29.208116 2016] [lbmethod_heartbeat:notice] [pid 490] AH02282: No slotmem from mod_heartmonitor
+[Wed May 25 07:15:30.830894 2016] [mpm_prefork:notice] [pid 490] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed May 25 07:15:30.830972 2016] [core:notice] [pid 490] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed May 25 15:12:55.646157 2016] [mpm_prefork:notice] [pid 490] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed May 25 15:15:06.338627 2016] [lbmethod_heartbeat:notice] [pid 494] AH02282: No slotmem from mod_heartmonitor
+[Wed May 25 15:15:11.656129 2016] [mpm_prefork:notice] [pid 494] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed May 25 15:15:11.656220 2016] [core:notice] [pid 494] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed May 25 16:41:18.064304 2016] [mpm_prefork:notice] [pid 494] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed May 25 16:42:09.397043 2016] [lbmethod_heartbeat:notice] [pid 490] AH02282: No slotmem from mod_heartmonitor
+[Wed May 25 16:42:11.285834 2016] [mpm_prefork:notice] [pid 490] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed May 25 16:42:11.285911 2016] [core:notice] [pid 490] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed May 25 23:52:58.315803 2016] [mpm_prefork:notice] [pid 490] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu May 26 08:12:50.513921 2016] [lbmethod_heartbeat:notice] [pid 510] AH02282: No slotmem from mod_heartmonitor
+[Thu May 26 08:12:57.005565 2016] [mpm_prefork:notice] [pid 510] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu May 26 08:12:57.005647 2016] [core:notice] [pid 510] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu May 26 17:54:53.560643 2016] [lbmethod_heartbeat:notice] [pid 494] AH02282: No slotmem from mod_heartmonitor
+[Thu May 26 17:54:55.359989 2016] [mpm_prefork:notice] [pid 494] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu May 26 17:54:55.360036 2016] [core:notice] [pid 494] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu May 26 23:40:14.400157 2016] [mpm_prefork:notice] [pid 494] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri May 27 06:10:31.721175 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Fri May 27 06:10:37.217111 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Fri May 27 06:10:37.217226 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 27 12:39:24.877934 2016] [lbmethod_heartbeat:notice] [pid 495] AH02282: No slotmem from mod_heartmonitor
+[Fri May 27 12:39:26.716152 2016] [mpm_prefork:notice] [pid 495] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Fri May 27 12:39:26.716227 2016] [core:notice] [pid 495] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 27 14:16:48.913819 2016] [mpm_prefork:notice] [pid 495] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri May 27 14:18:48.759544 2016] [lbmethod_heartbeat:notice] [pid 488] AH02282: No slotmem from mod_heartmonitor
+[Fri May 27 14:18:50.749010 2016] [mpm_prefork:notice] [pid 488] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Fri May 27 14:18:50.749089 2016] [core:notice] [pid 488] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 27 21:40:12.541313 2016] [mpm_prefork:notice] [pid 488] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri May 27 21:40:45.088105 2016] [lbmethod_heartbeat:notice] [pid 485] AH02282: No slotmem from mod_heartmonitor
+[Fri May 27 21:40:46.787928 2016] [mpm_prefork:notice] [pid 485] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Fri May 27 21:40:46.788012 2016] [core:notice] [pid 485] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri May 27 23:16:03.745839 2016] [mpm_prefork:notice] [pid 485] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat May 28 07:27:16.689839 2016] [lbmethod_heartbeat:notice] [pid 501] AH02282: No slotmem from mod_heartmonitor
+[Sat May 28 07:27:22.705870 2016] [mpm_prefork:notice] [pid 501] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sat May 28 07:27:22.705953 2016] [core:notice] [pid 501] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat May 28 12:45:03.394159 2016] [lbmethod_heartbeat:notice] [pid 490] AH02282: No slotmem from mod_heartmonitor
+[Sat May 28 12:45:05.222241 2016] [mpm_prefork:notice] [pid 490] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sat May 28 12:45:05.222316 2016] [core:notice] [pid 490] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat May 28 16:18:51.350401 2016] [mpm_prefork:notice] [pid 490] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat May 28 17:01:54.893452 2016] [lbmethod_heartbeat:notice] [pid 491] AH02282: No slotmem from mod_heartmonitor
+[Sat May 28 17:02:00.089239 2016] [mpm_prefork:notice] [pid 491] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sat May 28 17:02:00.089318 2016] [core:notice] [pid 491] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat May 28 22:10:15.697177 2016] [mpm_prefork:notice] [pid 491] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun May 29 07:04:26.751207 2016] [lbmethod_heartbeat:notice] [pid 505] AH02282: No slotmem from mod_heartmonitor
+[Sun May 29 07:04:32.256679 2016] [mpm_prefork:notice] [pid 505] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun May 29 07:04:32.256768 2016] [core:notice] [pid 505] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 29 10:20:43.646321 2016] [mpm_prefork:notice] [pid 505] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun May 29 10:22:48.577136 2016] [lbmethod_heartbeat:notice] [pid 492] AH02282: No slotmem from mod_heartmonitor
+[Sun May 29 10:22:50.545650 2016] [mpm_prefork:notice] [pid 492] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun May 29 10:22:50.545725 2016] [core:notice] [pid 492] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 29 11:41:54.387467 2016] [mpm_prefork:notice] [pid 492] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun May 29 11:42:32.513557 2016] [lbmethod_heartbeat:notice] [pid 511] AH02282: No slotmem from mod_heartmonitor
+[Sun May 29 11:42:34.353383 2016] [mpm_prefork:notice] [pid 511] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun May 29 11:42:34.353428 2016] [core:notice] [pid 511] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun May 29 23:43:53.662987 2016] [mpm_prefork:notice] [pid 511] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon May 30 07:24:21.282324 2016] [lbmethod_heartbeat:notice] [pid 514] AH02282: No slotmem from mod_heartmonitor
+[Mon May 30 07:24:27.652699 2016] [mpm_prefork:notice] [pid 514] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon May 30 07:24:27.652761 2016] [core:notice] [pid 514] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon May 30 23:56:39.673759 2016] [mpm_prefork:notice] [pid 514] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue May 31 07:23:29.383159 2016] [lbmethod_heartbeat:notice] [pid 507] AH02282: No slotmem from mod_heartmonitor
+[Tue May 31 07:23:36.328639 2016] [mpm_prefork:notice] [pid 507] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue May 31 07:23:36.328721 2016] [core:notice] [pid 507] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue May 31 08:59:43.104652 2016] [lbmethod_heartbeat:notice] [pid 503] AH02282: No slotmem from mod_heartmonitor
+[Tue May 31 08:59:47.453856 2016] [mpm_prefork:notice] [pid 503] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue May 31 08:59:47.453939 2016] [core:notice] [pid 503] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jun 02 00:36:08.458172 2016] [mpm_prefork:notice] [pid 503] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Jun 02 08:09:18.545452 2016] [lbmethod_heartbeat:notice] [pid 491] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 02 08:09:23.704071 2016] [mpm_prefork:notice] [pid 491] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jun 02 08:09:23.704166 2016] [core:notice] [pid 491] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jun 02 10:34:53.224671 2016] [mpm_prefork:notice] [pid 491] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Jun 02 13:38:15.972619 2016] [lbmethod_heartbeat:notice] [pid 518] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 02 13:38:18.425575 2016] [mpm_prefork:notice] [pid 518] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jun 02 13:38:18.426113 2016] [core:notice] [pid 518] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jun 02 16:43:14.755664 2016] [lbmethod_heartbeat:notice] [pid 497] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 02 16:43:16.808095 2016] [mpm_prefork:notice] [pid 497] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jun 02 16:43:16.808178 2016] [core:notice] [pid 497] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri Jun 03 09:09:39.541170 2016] [lbmethod_heartbeat:notice] [pid 483] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 03 09:09:43.548210 2016] [mpm_prefork:notice] [pid 483] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Fri Jun 03 09:09:43.548299 2016] [core:notice] [pid 483] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri Jun 03 10:20:39.288587 2016] [mpm_prefork:notice] [pid 483] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri Jun 03 10:57:17.295326 2016] [lbmethod_heartbeat:notice] [pid 509] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 03 10:57:19.065534 2016] [mpm_prefork:notice] [pid 509] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Fri Jun 03 10:57:19.065614 2016] [core:notice] [pid 509] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Jun 05 00:18:23.218505 2016] [mpm_prefork:notice] [pid 509] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Jun 05 08:30:56.726739 2016] [lbmethod_heartbeat:notice] [pid 500] AH02282: No slotmem from mod_heartmonitor
+[Sun Jun 05 08:31:01.001413 2016] [mpm_prefork:notice] [pid 500] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jun 05 08:31:01.001493 2016] [core:notice] [pid 500] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Jun 06 00:00:50.578108 2016] [mpm_prefork:notice] [pid 500] AH00171: Graceful restart requested, doing restart
+[Mon Jun 06 00:00:51.637498 2016] [lbmethod_heartbeat:notice] [pid 500] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 06 00:00:51.850590 2016] [mpm_prefork:notice] [pid 500] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Jun 06 00:00:51.850622 2016] [core:notice] [pid 500] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Jun 06 17:18:51.565946 2016] [mpm_prefork:notice] [pid 500] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Jun 06 17:19:47.322534 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 06 17:19:50.706098 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Jun 06 17:19:50.706181 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed Jun 08 10:00:28.199509 2016] [mpm_prefork:notice] [pid 499] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 08 15:03:38.961494 2016] [lbmethod_heartbeat:notice] [pid 495] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 08 15:03:43.068087 2016] [mpm_prefork:notice] [pid 495] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed Jun 08 15:03:43.068170 2016] [core:notice] [pid 495] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed Jun 08 17:28:28.540726 2016] [lbmethod_heartbeat:notice] [pid 493] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 08 17:28:33.377990 2016] [mpm_prefork:notice] [pid 493] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed Jun 08 17:28:33.832384 2016] [core:notice] [pid 493] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed Jun 08 17:35:31.088411 2016] [mpm_prefork:notice] [pid 493] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jun 08 17:37:34.882236 2016] [lbmethod_heartbeat:notice] [pid 483] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 08 17:37:36.029880 2016] [mpm_prefork:notice] [pid 483] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed Jun 08 17:37:36.045916 2016] [core:notice] [pid 483] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jun 09 23:57:44.973988 2016] [mpm_prefork:notice] [pid 483] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri Jun 10 08:13:35.615305 2016] [lbmethod_heartbeat:notice] [pid 508] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 10 08:13:39.654359 2016] [mpm_prefork:notice] [pid 508] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Fri Jun 10 08:13:39.654441 2016] [core:notice] [pid 508] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat Jun 11 08:20:20.316475 2016] [lbmethod_heartbeat:notice] [pid 523] AH02282: No slotmem from mod_heartmonitor
+[Sat Jun 11 08:20:24.281013 2016] [mpm_prefork:notice] [pid 523] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sat Jun 11 08:20:24.281089 2016] [core:notice] [pid 523] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat Jun 11 08:28:55.916390 2016] [mpm_prefork:notice] [pid 523] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 11 08:31:00.589759 2016] [lbmethod_heartbeat:notice] [pid 515] AH02282: No slotmem from mod_heartmonitor
+[Sat Jun 11 08:31:02.295382 2016] [mpm_prefork:notice] [pid 515] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sat Jun 11 08:31:02.295459 2016] [core:notice] [pid 515] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat Jun 11 23:28:32.561158 2016] [mpm_prefork:notice] [pid 515] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Jun 12 08:06:35.301595 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Sun Jun 12 08:06:41.038899 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jun 12 08:06:41.038988 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Jun 12 13:53:25.408912 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sun Jun 12 13:53:29.382769 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jun 12 13:53:29.382852 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Jun 13 00:24:52.886694 2016] [mpm_prefork:notice] [pid 499] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Jun 13 07:42:15.328178 2016] [lbmethod_heartbeat:notice] [pid 506] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 13 07:42:18.380896 2016] [mpm_prefork:notice] [pid 506] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Jun 13 07:42:18.380971 2016] [core:notice] [pid 506] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jun 14 12:11:14.765644 2016] [lbmethod_heartbeat:notice] [pid 514] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 14 12:11:19.174314 2016] [mpm_prefork:notice] [pid 514] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jun 14 12:11:19.174399 2016] [core:notice] [pid 514] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jun 14 14:56:08.755310 2016] [lbmethod_heartbeat:notice] [pid 493] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 14 14:56:10.746152 2016] [mpm_prefork:notice] [pid 493] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jun 14 14:56:10.746232 2016] [core:notice] [pid 493] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jun 14 15:37:40.289642 2016] [mpm_prefork:notice] [pid 493] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Jun 14 16:18:54.890824 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 14 16:18:56.864031 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jun 14 16:18:56.864124 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jun 16 17:14:29.132594 2016] [lbmethod_heartbeat:notice] [pid 509] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 16 17:14:30.996416 2016] [mpm_prefork:notice] [pid 509] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jun 16 17:14:30.996496 2016] [core:notice] [pid 509] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jun 16 22:22:35.482309 2016] [lbmethod_heartbeat:notice] [pid 509] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 16 22:22:37.615394 2016] [mpm_prefork:notice] [pid 509] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jun 16 22:22:37.615469 2016] [core:notice] [pid 509] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat Jun 18 21:31:38.790874 2016] [lbmethod_heartbeat:notice] [pid 510] AH02282: No slotmem from mod_heartmonitor
+[Sat Jun 18 21:31:42.275859 2016] [mpm_prefork:notice] [pid 510] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sat Jun 18 21:31:42.275938 2016] [core:notice] [pid 510] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Jun 19 16:12:07.288664 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Sun Jun 19 16:12:09.368522 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jun 19 16:12:09.368595 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Jun 20 00:00:00.879305 2016] [mpm_prefork:notice] [pid 504] AH00171: Graceful restart requested, doing restart
+[Mon Jun 20 00:00:01.188838 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 20 00:00:01.196293 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Jun 20 00:00:01.196308 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jun 21 09:27:57.860625 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 21 09:28:03.577752 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jun 21 09:28:03.577841 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jun 21 20:14:24.333184 2016] [lbmethod_heartbeat:notice] [pid 494] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 21 20:14:26.173236 2016] [mpm_prefork:notice] [pid 494] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jun 21 20:14:26.173320 2016] [core:notice] [pid 494] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jun 23 16:06:00.641589 2016] [lbmethod_heartbeat:notice] [pid 500] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 23 16:06:04.640082 2016] [mpm_prefork:notice] [pid 500] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jun 23 16:06:04.640163 2016] [core:notice] [pid 500] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jun 23 17:14:11.574459 2016] [lbmethod_heartbeat:notice] [pid 493] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 23 17:14:13.467469 2016] [mpm_prefork:notice] [pid 493] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jun 23 17:14:13.467511 2016] [core:notice] [pid 493] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat Jun 25 07:27:06.712669 2016] [mpm_prefork:notice] [pid 493] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 25 07:29:05.742695 2016] [lbmethod_heartbeat:notice] [pid 501] AH02282: No slotmem from mod_heartmonitor
+[Sat Jun 25 07:29:07.561317 2016] [mpm_prefork:notice] [pid 501] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sat Jun 25 07:29:07.561397 2016] [core:notice] [pid 501] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Jun 26 08:16:21.373947 2016] [mpm_prefork:notice] [pid 501] AH00171: Graceful restart requested, doing restart
+[Sun Jun 26 08:16:34.461961 2016] [lbmethod_heartbeat:notice] [pid 501] AH02282: No slotmem from mod_heartmonitor
+[Sun Jun 26 08:16:34.894033 2016] [mpm_prefork:notice] [pid 501] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jun 26 08:16:34.894069 2016] [core:notice] [pid 501] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Jun 27 12:52:16.139150 2016] [mpm_prefork:notice] [pid 501] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Jun 27 12:55:28.025696 2016] [lbmethod_heartbeat:notice] [pid 511] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 27 12:55:31.146020 2016] [mpm_prefork:notice] [pid 511] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Jun 27 12:55:31.146098 2016] [core:notice] [pid 511] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed Jun 29 14:57:55.921292 2016] [lbmethod_heartbeat:notice] [pid 493] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 29 14:57:59.595960 2016] [mpm_prefork:notice] [pid 493] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed Jun 29 14:57:59.596042 2016] [core:notice] [pid 493] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Fri Jul 01 10:50:49.280055 2016] [lbmethod_heartbeat:notice] [pid 506] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 01 10:50:52.567269 2016] [mpm_prefork:notice] [pid 506] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Fri Jul 01 10:50:52.567348 2016] [core:notice] [pid 506] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Jul 03 15:35:56.545039 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 03 15:35:57.837776 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jul 03 15:35:57.837870 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Jul 04 08:31:13.780044 2016] [mpm_prefork:notice] [pid 499] AH00171: Graceful restart requested, doing restart
+[Mon Jul 04 08:31:15.377864 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 04 08:31:15.666636 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Jul 04 08:31:15.666661 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Jul 04 19:28:42.432718 2016] [lbmethod_heartbeat:notice] [pid 494] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 04 19:28:46.932589 2016] [mpm_prefork:notice] [pid 494] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Jul 04 19:28:46.932669 2016] [core:notice] [pid 494] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Jul 04 23:32:59.962335 2016] [lbmethod_heartbeat:notice] [pid 506] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 04 23:33:03.439551 2016] [mpm_prefork:notice] [pid 506] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Jul 04 23:33:03.439629 2016] [core:notice] [pid 506] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jul 07 08:48:00.063985 2016] [mpm_prefork:notice] [pid 506] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Jul 07 08:48:53.577242 2016] [lbmethod_heartbeat:notice] [pid 483] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 07 08:48:55.420432 2016] [mpm_prefork:notice] [pid 483] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jul 07 08:48:55.420513 2016] [core:notice] [pid 483] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jul 07 17:20:58.401507 2016] [lbmethod_heartbeat:notice] [pid 498] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 07 17:21:00.336679 2016] [mpm_prefork:notice] [pid 498] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jul 07 17:21:00.336771 2016] [core:notice] [pid 498] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::92e6:baff:fe16:2a6f. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 19 13:46:18.238879 2016] [lbmethod_heartbeat:notice] [pid 21350] AH02282: No slotmem from mod_heartmonitor
+[Tue Jul 19 13:46:18.559889 2016] [mpm_prefork:notice] [pid 21350] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jul 19 13:46:18.559953 2016] [core:notice] [pid 21350] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jul 19 14:08:53.314433 2016] [mpm_prefork:notice] [pid 21350] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::92e6:baff:fe16:2a6f. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 19 14:08:55.832223 2016] [lbmethod_heartbeat:notice] [pid 22461] AH02282: No slotmem from mod_heartmonitor
+[Tue Jul 19 14:08:55.846157 2016] [mpm_prefork:notice] [pid 22461] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jul 19 14:08:55.846197 2016] [core:notice] [pid 22461] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jul 19 17:18:36.812262 2016] [lbmethod_heartbeat:notice] [pid 502] AH02282: No slotmem from mod_heartmonitor
+[Tue Jul 19 17:18:38.897745 2016] [mpm_prefork:notice] [pid 502] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jul 19 17:18:38.897823 2016] [core:notice] [pid 502] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed Jul 20 20:16:35.257469 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Wed Jul 20 20:16:38.713949 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed Jul 20 20:16:38.714038 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Jul 24 08:55:38.798995 2016] [mpm_prefork:notice] [pid 504] AH00171: Graceful restart requested, doing restart
+[Sun Jul 24 08:55:46.437961 2016] [lbmethod_heartbeat:notice] [pid 504] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 24 08:55:47.081345 2016] [mpm_prefork:notice] [pid 504] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jul 24 08:55:47.081370 2016] [core:notice] [pid 504] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Jul 24 14:49:07.015261 2016] [lbmethod_heartbeat:notice] [pid 556] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 24 14:49:10.399029 2016] [mpm_prefork:notice] [pid 556] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jul 24 14:49:10.399109 2016] [core:notice] [pid 556] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jul 26 08:41:41.638163 2016] [lbmethod_heartbeat:notice] [pid 498] AH02282: No slotmem from mod_heartmonitor
+[Tue Jul 26 08:41:45.855671 2016] [mpm_prefork:notice] [pid 498] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jul 26 08:41:45.855752 2016] [core:notice] [pid 498] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jul 26 13:43:39.834737 2016] [lbmethod_heartbeat:notice] [pid 508] AH02282: No slotmem from mod_heartmonitor
+[Tue Jul 26 13:43:42.586491 2016] [mpm_prefork:notice] [pid 508] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jul 26 13:43:42.586567 2016] [core:notice] [pid 508] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jul 26 16:41:52.670872 2016] [mpm_prefork:notice] [pid 508] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Jul 26 16:42:35.660203 2016] [lbmethod_heartbeat:notice] [pid 502] AH02282: No slotmem from mod_heartmonitor
+[Tue Jul 26 16:42:37.377613 2016] [mpm_prefork:notice] [pid 502] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jul 26 16:42:37.377664 2016] [core:notice] [pid 502] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Jul 26 19:15:14.161112 2016] [lbmethod_heartbeat:notice] [pid 506] AH02282: No slotmem from mod_heartmonitor
+[Tue Jul 26 19:15:17.467711 2016] [mpm_prefork:notice] [pid 506] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Jul 26 19:15:17.467787 2016] [core:notice] [pid 506] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed Jul 27 12:47:02.225988 2016] [mpm_prefork:notice] [pid 506] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jul 27 12:49:04.557794 2016] [lbmethod_heartbeat:notice] [pid 503] AH02282: No slotmem from mod_heartmonitor
+[Wed Jul 27 12:49:06.376562 2016] [mpm_prefork:notice] [pid 503] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed Jul 27 12:49:06.376633 2016] [core:notice] [pid 503] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jul 28 13:47:41.383700 2016] [lbmethod_heartbeat:notice] [pid 495] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 28 13:47:43.099039 2016] [mpm_prefork:notice] [pid 495] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jul 28 13:47:43.099122 2016] [core:notice] [pid 495] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jul 28 13:49:01.128056 2016] [mpm_prefork:notice] [pid 495] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Jul 28 13:49:35.149955 2016] [lbmethod_heartbeat:notice] [pid 500] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 28 13:49:36.787216 2016] [mpm_prefork:notice] [pid 500] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jul 28 13:49:36.787298 2016] [core:notice] [pid 500] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Thu Jul 28 14:15:20.225964 2016] [lbmethod_heartbeat:notice] [pid 491] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 28 14:15:22.221737 2016] [mpm_prefork:notice] [pid 491] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Thu Jul 28 14:15:22.221809 2016] [core:notice] [pid 491] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sat Jul 30 16:16:50.966751 2016] [lbmethod_heartbeat:notice] [pid 487] AH02282: No slotmem from mod_heartmonitor
+[Sat Jul 30 16:16:55.108049 2016] [mpm_prefork:notice] [pid 487] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sat Jul 30 16:16:55.108119 2016] [core:notice] [pid 487] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Jul 31 12:42:10.392866 2016] [lbmethod_heartbeat:notice] [pid 498] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 31 12:42:12.414044 2016] [mpm_prefork:notice] [pid 498] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jul 31 12:42:12.414123 2016] [core:notice] [pid 498] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Jul 31 21:06:33.108825 2016] [lbmethod_heartbeat:notice] [pid 496] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 31 21:06:38.179016 2016] [mpm_prefork:notice] [pid 496] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Jul 31 21:06:38.179100 2016] [core:notice] [pid 496] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Aug 01 00:00:15.765899 2016] [mpm_prefork:notice] [pid 496] AH00171: Graceful restart requested, doing restart
+[Mon Aug 01 00:00:15.942758 2016] [lbmethod_heartbeat:notice] [pid 496] AH02282: No slotmem from mod_heartmonitor
+[Mon Aug 01 00:00:15.952695 2016] [mpm_prefork:notice] [pid 496] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Aug 01 00:00:15.952720 2016] [core:notice] [pid 496] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Aug 01 09:15:30.117208 2016] [lbmethod_heartbeat:notice] [pid 499] AH02282: No slotmem from mod_heartmonitor
+[Mon Aug 01 09:15:32.070622 2016] [mpm_prefork:notice] [pid 499] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Aug 01 09:15:32.070735 2016] [core:notice] [pid 499] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Aug 01 11:23:52.393078 2016] [lbmethod_heartbeat:notice] [pid 493] AH02282: No slotmem from mod_heartmonitor
+[Mon Aug 01 11:23:54.478980 2016] [mpm_prefork:notice] [pid 493] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Mon Aug 01 11:23:54.479060 2016] [core:notice] [pid 493] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Tue Aug 02 13:26:33.435407 2016] [lbmethod_heartbeat:notice] [pid 490] AH02282: No slotmem from mod_heartmonitor
+[Tue Aug 02 13:26:39.080434 2016] [mpm_prefork:notice] [pid 490] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Tue Aug 02 13:26:39.080516 2016] [core:notice] [pid 490] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed Aug 03 17:11:08.276988 2016] [lbmethod_heartbeat:notice] [pid 505] AH02282: No slotmem from mod_heartmonitor
+[Wed Aug 03 17:11:10.455949 2016] [mpm_prefork:notice] [pid 505] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed Aug 03 17:11:10.456030 2016] [core:notice] [pid 505] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Sun Aug 07 07:54:40.835487 2016] [mpm_prefork:notice] [pid 505] AH00171: Graceful restart requested, doing restart
+[Sun Aug 07 07:54:43.261433 2016] [lbmethod_heartbeat:notice] [pid 505] AH02282: No slotmem from mod_heartmonitor
+[Sun Aug 07 07:54:43.750314 2016] [mpm_prefork:notice] [pid 505] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Sun Aug 07 07:54:43.750353 2016] [core:notice] [pid 505] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Mon Aug 08 10:34:45.212449 2016] [mpm_prefork:notice] [pid 505] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::6a5d:43ff:fee8:67d2. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 17 16:32:14.935334 2016] [lbmethod_heartbeat:notice] [pid 8516] AH02282: No slotmem from mod_heartmonitor
+[Wed Aug 17 16:32:14.951897 2016] [mpm_prefork:notice] [pid 8516] AH00163: Apache/2.4.20 (Unix) PHP/7.0.6 configured -- resuming normal operations
+[Wed Aug 17 16:32:14.951937 2016] [core:notice] [pid 8516] AH00094: Command line: '/usr/bin/httpd -D FOREGROUND'
+[Wed Aug 17 16:43:39.014956 2016] [mpm_prefork:notice] [pid 8516] AH00170: caught SIGWINCH, shutting down gracefully

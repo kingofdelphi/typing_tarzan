@@ -1,0 +1,43 @@
+.typing {
+    #border : 2px solid red;
+    font-size : 18px;
+    padding : 20px;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    cursor : pointer;
+}
+
+.typing:focus {
+    border-color : black;
+}
+
+.left {
+    background-color : transparent;
+    text-decoration:underline;
+}
+
+.wrong {
+    color : white;
+    background-color : red;
+}
+
+.cur {
+    color : white;
+    background-color : black;
+}
+
+#gamelist li:hover {
+    background-color:lightgrey;
+    cursor : pointer;
+}
+
+.peer {
+    background-color:blue;
+    color:white;
+}
+
+pre {
+}
