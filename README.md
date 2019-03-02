@@ -2,7 +2,7 @@
 
 1. Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
 2. Run `php composer.phar install` to install all dependencies. 
-   'composer.phar' is the file we downloaded fromo step 1 which is present in folder where this readme.md file
+   'composer.phar' is the file we downloaded from step 1 which is present in folder where this readme.md file
     is present.
 
 ## Configuration
