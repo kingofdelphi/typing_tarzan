@@ -1,0 +1,31 @@
+version: '3'
+services:
+    typingtarzan:
+        build: 
+            context: ./main
+        ports:
+            - 8030:8080 #http server
+            - 8081:8081 #web socket server
+        links:
+            - 'mariadb'
+
+    mariadb:
+        build:
+            context: ./db
+        ports:
+            - 3306:3306
+        volumes:
+            - ./main/typingtarzan/ttar.sql:/docker-entrypoint-initdb.d/dump.sql
+            - mariadb:/var/lib/mysql
+        environment:
+            MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+            MYSQL_ROOT_PASSWORD: ""
+            MYSQL_DATABASE: 'ttar'
+        healthcheck:
+            test: ["CMD-SHELL", 'mysql --database=$$MYSQL_DATABASE --password=$$MYSQL_ROOT_PASSWORD']
+            interval: 30s
+            timeout: 10s
+            retries: 5
+
+volumes:
+    mariadb:
