@@ -70,7 +70,16 @@ class Chat implements MessageComponentInterface {
         $this->Users = TableRegistry::get('Users');
         $this->Texts = TableRegistry::get('Texts');
         $this->Games = TableRegistry::get('Games');
-        $this->loadAllTexts();
+		while (1) {
+			echo "Connecting to database...";
+			try {
+				$this->loadAllTexts();
+				break;
+			} catch (\Exception $e) {
+				echo $e->getMessage() . "Retrying..\r\n";
+			}
+			sleep(1);
+		}
     }
 
     public function loadAllTexts() {

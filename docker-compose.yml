@@ -15,7 +15,7 @@ services:
         ports:
             - 3306:3306
         volumes:
-            - ./main/typingtarzan/ttar.sql:/docker-entrypoint-initdb.d/dump.sql
+            - ./db/ttar.sql:/docker-entrypoint-initdb.d/dump.sql
             - mariadb:/var/lib/mysql
         environment:
             MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
