@@ -74,9 +74,10 @@ class Chat implements MessageComponentInterface {
 			echo "Connecting to database...";
 			try {
 				$this->loadAllTexts();
+				echo "Connection succeeded";
 				break;
 			} catch (\Exception $e) {
-				echo $e->getMessage() . "Retrying..\r\n";
+				echo $e->getMessage() . " Retrying..\r\n";
 			}
 			sleep(1);
 		}
