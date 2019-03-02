@@ -6,13 +6,15 @@ use MyApp\Chat;
 
     require dirname(__DIR__) . '/vendor/autoload.php';
 
+	date_default_timezone_set(date_default_timezone_get());
+
     $server = IoServer::factory(
         new HttpServer(
             new WsServer(
                 new Chat()
             )
         ),
-        8080
+        8081
     );
 
     $server->run();

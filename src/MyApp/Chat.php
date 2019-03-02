@@ -65,7 +65,7 @@ class Chat implements MessageComponentInterface {
     private $timer = 10;
 
     public function __construct() {
-        $dsn = 'mysql://root:a@localhost/ttar';
+        $dsn = 'mysql://root@mariadb/ttar';
         ConnectionManager::config('default', ['url' => $dsn]);
         $this->Users = TableRegistry::get('Users');
         $this->Texts = TableRegistry::get('Texts');

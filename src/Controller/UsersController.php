@@ -90,7 +90,8 @@ class UsersController extends AppController
             }
         }
         if ($valid) {
-            if (!$validated) return $this->redirect(['action' => 'validateAccount', $email]);
+			// remove this for email validation
+            // if (!$validated) return $this->redirect(['action' => 'validateAccount', $email]);
             return $this->makeUserLogin($email);
         } else {
             $this->set('invalid', true);
@@ -188,7 +189,9 @@ htm;
             $password = $this->request->data['pwd1'];
             $display = $this->request->data['username'];
             $rnd = $this->generateRandomString(); 
-            $mstat = $this->sendVerification($display, $email, $password, $rnd);
+            // $mstat = $this->sendVerification($display, $email, $password, $rnd);
+			// i removed verification by commenting above and adding line below
+			$mstat = true;
             if ($mstat) {
                 $user = $this->Users->newEntity();
                 $user->email = $email;

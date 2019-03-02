@@ -62,7 +62,7 @@ CREATE TABLE `texts` (
 
 LOCK TABLES `texts` WRITE;
 /*!40000 ALTER TABLE `texts` DISABLE KEYS */;
-INSERT INTO `texts` VALUES (2,'american psycho','In 1987, wealthy New York investment banker Patrick Bateman\'s life revolves around dining at trendy restaurants while keeping up appearances for his fiancée Evelyn and for his circle of wealthy and shallow associates, most of whom he dislikes. Bateman describes the material accoutrements of his lifestyle, including his daily morning exercise and beautification routine. He also discusses his music collection, with performers such as Huey Lewis and the News, Phil Collins,');
+INSERT INTO `texts` VALUES (2,'american psycho','In 1987, wealthy New York investment banker Patrick Bateman\'s life revolves around dining at trendy restaurants while keeping up appearances for his fiancee Evelyn and for his circle of wealthy and shallow associates, most of whom he dislikes. Bateman describes the material accoutrements of his lifestyle, including his daily morning exercise and beautification routine. He also discusses his music collection, with performers such as Huey Lewis and the News, Phil Collins,');
 /*!40000 ALTER TABLE `texts` ENABLE KEYS */;
 UNLOCK TABLES;
 
