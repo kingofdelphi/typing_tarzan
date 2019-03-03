@@ -26,5 +26,7 @@
     <pre style='visibility:hidden;text-align:left;text-justify:none;word-break:normal;word-wrap:normal;' id='tcont' tabindex='0'></pre>
 </div>
 <script src='js/typing/typing.js'></script>
+<script>SERVER_HOSTNAME='<?echo getenv('SERVER_HOSTNAME')?>'</script>
+<script>WEBSOCKET_PORT='<?echo getenv('WEBSOCKET_PORT')?>'</script>
 <script src='js/typing/sockman.js'> </script>
 <script src='js/typing/events.js'></script>

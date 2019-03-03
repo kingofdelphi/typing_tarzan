@@ -4,8 +4,8 @@ services:
         build: 
             context: ./main
         ports:
-            - 8080:8080 #http server
-            - 8081:8081 #web socket server
+            - 8080:${HTTP_PORT} #http server
+            - ${WEBSOCKET_PORT}:${WEBSOCKET_PORT} #web socket server
         links:
             - 'mariadb'
 
@@ -13,21 +13,23 @@ services:
         volumes:
             - "./main/typingtarzan/src:/typingtarzan/src"
             - "./main/typingtarzan/webroot:/typingtarzan/webroot"
+        environment:
+            SERVER_HOSTNAME: "localhost"
+            HTTP_PORT: ${HTTP_PORT}
+            WEBSOCKET_PORT: ${WEBSOCKET_PORT}
+        env_file:
+            - ./db/env # include sql credentials
 
     mariadb:
         build:
             context: ./db
-        ports:
-            - 3306:3306
         volumes:
             - ./db/ttar.sql:/docker-entrypoint-initdb.d/dump.sql
             - mariadb:/var/lib/mysql
-        environment:
-            MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
-            MYSQL_ROOT_PASSWORD: ""
-            MYSQL_DATABASE: 'ttar'
+        env_file:
+            - ./db/env
         healthcheck:
-            test: ["CMD-SHELL", 'mysql --database=$$MYSQL_DATABASE --password=$$MYSQL_ROOT_PASSWORD']
+            test: ["CMD-SHELL", 'mysql -u=$$MYSQL_USER --database=$$MYSQL_DATABASE --password=$$MYSQL_PASSWORD']
             interval: 30s
             timeout: 10s
             retries: 5

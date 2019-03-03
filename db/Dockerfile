@@ -1,1 +1,2 @@
 FROM mariadb:10.1
+EXPOSE $MYSQL_PORT

@@ -14,7 +14,7 @@ use MyApp\Chat;
                 new Chat()
             )
         ),
-        8081
+        getenv('WEBSOCKET_PORT')
     );
 
     $server->run();

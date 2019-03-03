@@ -1,6 +1,5 @@
 function User() {
-    //this.conn = new WebSocket('ws:ttar.duckdns.org:8080');
-    this.conn = new WebSocket('ws:localhost:8081');
+    this.conn = new WebSocket('ws:' + SERVER_HOSTNAME + ':' + WEBSOCKET_PORT);
     this.displayname = null;
     this.email = null;
     this.tman = new TypingManager();
