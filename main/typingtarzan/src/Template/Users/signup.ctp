@@ -19,7 +19,9 @@
                     <label for="pwd2">Confirm Password:</label>
                     <input type="password" class="form-control" id="pwd2" placeholder="Enter password">
                 </div>
-                <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-info pull-left">
+				<div style='display:flex'>
+					<input type="submit" name="submit" id="submit" value="Submit" class="btn btn-info pull-left">
+				</div>
             </form>
         </div>
         <div class="col-md-4">

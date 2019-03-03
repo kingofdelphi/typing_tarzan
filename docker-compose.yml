@@ -4,10 +4,15 @@ services:
         build: 
             context: ./main
         ports:
-            - 8030:8080 #http server
+            - 8080:8080 #http server
             - 8081:8081 #web socket server
         links:
             - 'mariadb'
+
+        # sync development files from host to vm
+        volumes:
+            - "./main/typingtarzan/src:/typingtarzan/src"
+            - "./main/typingtarzan/webroot:/typingtarzan/webroot"
 
     mariadb:
         build:
