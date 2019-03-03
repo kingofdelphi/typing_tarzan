@@ -14,7 +14,7 @@ services:
             - "./main/typingtarzan/src:/typingtarzan/src"
             - "./main/typingtarzan/webroot:/typingtarzan/webroot"
         environment:
-            SERVER_HOSTNAME: "localhost"
+            SERVER_HOSTNAME: "192.168.100.12"
             HTTP_PORT: ${HTTP_PORT}
             WEBSOCKET_PORT: ${WEBSOCKET_PORT}
         env_file:
@@ -28,11 +28,6 @@ services:
             - mariadb:/var/lib/mysql
         env_file:
             - ./db/env
-        healthcheck:
-            test: ["CMD-SHELL", 'mysql -u=$$MYSQL_USER --database=$$MYSQL_DATABASE --password=$$MYSQL_PASSWORD']
-            interval: 30s
-            timeout: 10s
-            retries: 5
 
 volumes:
     mariadb:
