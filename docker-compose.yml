@@ -14,7 +14,7 @@ services:
             - "./main/typingtarzan/src:/typingtarzan/src"
             - "./main/typingtarzan/webroot:/typingtarzan/webroot"
         environment:
-            SERVER_HOSTNAME: "192.168.100.12"
+            SERVER_HOSTNAME: "localhost"
             HTTP_PORT: ${HTTP_PORT}
             WEBSOCKET_PORT: ${WEBSOCKET_PORT}
         env_file:
